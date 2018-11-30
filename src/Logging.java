@@ -12,6 +12,4 @@ public class Logging {
 	}
 	
 	//adding one more After Advice here
-
-	
 }
