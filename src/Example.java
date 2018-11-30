@@ -2,5 +2,11 @@
 
 class Employee{
 	
+	//Below code in master branch
+	class InnerClass{
+	}
+	
 	//code change for bugfix345
+	
+
 }
